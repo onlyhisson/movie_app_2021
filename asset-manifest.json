@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/onlyhisson/movie_app_2021/static/css/main.93b83b2b.css",
+    "main.js": "/onlyhisson/movie_app_2021/static/js/main.bf1aff4e.js",
+    "index.html": "/onlyhisson/movie_app_2021/index.html",
+    "main.93b83b2b.css.map": "/onlyhisson/movie_app_2021/static/css/main.93b83b2b.css.map",
+    "main.bf1aff4e.js.map": "/onlyhisson/movie_app_2021/static/js/main.bf1aff4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93b83b2b.css",
+    "static/js/main.bf1aff4e.js"
+  ]
+}
